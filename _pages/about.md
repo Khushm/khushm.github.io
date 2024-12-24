@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Khushboo's Portfolio"
+title: "Portfolio"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,14 +10,17 @@ redirect_from:
 
 Education
 ======
+
 | Degree            | Institution   | Year | Grade                                                            |
 | --------       | --------       | ------ | ------------------------------------------------------------ |
 | Master of Science in Computer Science and Engineering  |  The Ohio State University, USA    | 2024 - Present   | 3.67/4 GPA                         |
 | Bachelor of Technology in Computer Engineering    |  Savitribai Phule Pune University, India    | 2019  - 2023   | 9.24/10 CGPA <br> [Transcript](#) <br> [Degree Certificate](#)                          |
 
+
 Work Experience
 ======
-#### **Software Engineer Intern**  
+
+### **Software Engineer Intern**  
 **ABC Tech Solutions**  
 _May 2023 – Aug 2023_ | New York, USA  
 - Developed a machine learning model for predictive analytics, improving data accuracy by 20%.
