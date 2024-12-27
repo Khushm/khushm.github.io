@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: leadership/
-title: "Campus Leadership"
+title: "Campus Leadership Experience"
 author_profile: true
 ---
 
