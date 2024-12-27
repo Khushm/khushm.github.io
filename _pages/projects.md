@@ -1,17 +1,9 @@
 ---
 layout: archive
 permalink: projects/
-title: "Notable Projects"
+title: "My Notable Projects"
 author_profile: true
 ---
-
-| **Project Name**       | **Technology**         | **Description**                                                                                      | **Links**                           |
-|-------------------------|------------------------|------------------------------------------------------------------------------------------------------|-------------------------------------|
-| Project A              | Python, Flask          | Developed a RESTful API for managing tasks and scheduling automation.                                | [GitHub](https://github.com)        |
-| Project B              | React, Node.js         | Built a collaborative task management app with real-time notifications and role-based permissions.  | [Demo](https://projectb.com)       |
-| Project C              | Kotlin, Firebase       | Android app for wheelchair users to log and track breakdown issues and repair history.              | [GitHub](https://github.com)        |
-
-## My Notable Projects
 
 <style>
   .projects-container {
@@ -30,6 +22,7 @@ author_profile: true
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     text-align: center;
     transition: transform 0.3s ease;
+    height: 350px; /* Set fixed height to ensure consistency */
   }
 
   .project-card:hover {
@@ -37,45 +30,66 @@ author_profile: true
   }
 
   .project-card h3 {
+    font-size: 18px;
     margin-bottom: 10px;
+    font-weight: bold;
   }
 
   .project-card p {
     font-size: 14px;
     margin: 5px 0;
+    color: #333;
+  }
+
+  .tech-stack {
+    font-size: 12px;
+    color: #777;
+    margin-bottom: 10px;
   }
 
   .project-card a {
     color: #007acc;
     text-decoration: none;
-    font-weight: bold;
+    font-size: 18px;
+    margin-top: 10px;
   }
 
   .project-card a:hover {
     text-decoration: underline;
+  }
+
+  .github-icon {
+    font-size: 22px;
+    color: #333;
   }
 </style>
 
 <div class="projects-container">
   <div class="project-card">
     <h3>Project A</h3>
-    <p><strong>Technology:</strong> Python, Flask, Python, Flask, Python, Flask</p>
-    <p><strong>Summary:</strong> Developed a RESTful API for managing tasks and scheduling automation.</p>
-    <a href="https://github.com/your-project" target="_blank">View on GitHub</a>
+    <p>This project focuses on developing a RESTful API for task management.</p>
+    <p class="tech-stack"><strong>Technologies:</strong> Python, Flask</p>
+    <a href="https://github.com/your-project" target="_blank">
+      <i class="github-icon">GitHub</i>
+    </a>
   </div>
 
   <div class="project-card">
     <h3>Project B</h3>
-    <p><strong>Technology:</strong> React, Node.js</p>
-    <p><strong>Summary:</strong> Built a collaborative task management app with real-time notifications.</p>
-    <a href="https://your-project-link.com" target="_blank">Live Demo</a>
+    <p>Built a collaborative task management app with real-time notifications.</p>
+    <p class="tech-stack"><strong>Technologies:</strong> React, Node.js</p>
+    <a href="https://your-project-link.com" target="_blank">
+      <i class="github-icon">GitHub</i>
+    </a>
   </div>
 
   <div class="project-card">
     <h3>Project C</h3>
-    <p><strong>Technology:</strong> Kotlin, Firebase</p>
-    <p><strong>Summary:</strong> Android app for wheelchair users to log and track breakdown issues and repair history.</p>
-    <a href="https://github.com/your-project" target="_blank">View on GitHub</a>
+    <p>Developed an Android app for wheelchair users to log breakdowns.</p>
+    <p class="tech-stack"><strong>Technologies:</strong> Kotlin, Firebase</p>
+    <a href="https://github.com/your-project" target="_blank">
+      <i class="github-icon">GitHub</i>
+    </a>
   </div>
 
   <!-- Add more project cards here -->
