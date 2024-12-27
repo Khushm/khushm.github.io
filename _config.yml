@@ -12,7 +12,7 @@ title                    : "Khushboo's Space"
 title_separator          : "-"
 name                     : &name "Khushboo Suchit Mundada"
 description              : &description "personal description"
-url                      : https://khushm.github.io/
+url                      : https://khushm.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/Khushm/khushm.github.io"
 
