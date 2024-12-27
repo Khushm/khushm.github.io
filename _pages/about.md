@@ -26,40 +26,8 @@ Education
 - [Degree Certificate](#)
 
 
-My Work in Action
-======
-
-**Student Research Assistant**  
-*[Rehabilitation Engineering Design Laboratory, OSU](https://red.osu.edu/team/)* | **Sep 2024 – Present**  
-- a
-  - v
-  - x
-- x
-
-**Student Teaching Assistant**  
-*[Rehabilitation Engineering Design Laboratory, OSU](https://cse.osu.edu/)* | **Sep 2024 – Present**  
-- a
-  - v
-  - x
-- x
-
 My Technical Toolkit
 ======
 
 - **Student Research Assistant**: a, b, c
 - **Hey**: a, b, c
-
-
-Published Work
-======
-
-- [Paper name](#)
-
-Leadership Experience
-======
-
-- a
-- c
-- d
-- c
-- e
