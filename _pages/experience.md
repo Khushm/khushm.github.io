@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /experience/
+permalink: experience/
 title: "My Work in Action"
 author_profile: true
 ---
