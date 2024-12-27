@@ -44,22 +44,26 @@ author_profile: true
   }
 
   .project-card a {
-    color: #007acc;
+    color: #181717;
     text-decoration: none;
     font-weight: bold;
-    display: flex;
+    display: inline-block;
     justify-content: center;
     align-items: center;
     gap: 5px;
   }
 
   .project-card a:hover {
-    text-decoration: underline;
+    color: #0077b5;
   }
 
   .project-card i {
-    font-size: 18px; /* Adjust size for the GitHub icon */
+    font-size: 28px; /* Adjust size for the GitHub icon */
+    transition: color 0.3s ease;
   }
+  .project-card a:focus, .project-card a:hover {
+  outline: none;  /* Remove the focus outline for a cleaner look */
+}
 </style>
 
 <div class="projects-container">
