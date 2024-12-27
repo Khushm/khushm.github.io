@@ -64,29 +64,23 @@ author_profile: true
 <div class="projects-container">
   <div class="project-card">
     <h3>Project A</h3>
-    <p><strong>Summary:</strong> Developed a RESTful API for managing tasks and scheduling automation.</p>
-    <p><small><strong>Tech Stack:</strong> Python, Flask</small></p>
-    <a href="https://github.com/your-project" target="_blank">
-      <i class="fab fa-github"></i> View on GitHub
-    </a>
+    <p>Developed a RESTful API for managing tasks and scheduling automation.</p>
+    <p><small>Python, Flask</small></p>
+    <a href="https://github.com/your-project" target="_blank"><i class="fab fa-github"></i></a>
   </div>
 
   <div class="project-card">
     <h3>Project B</h3>
-    <p><strong>Summary:</strong> Built a collaborative task management app with real-time notifications.</p>
-    <p><small><strong>Tech Stack:</strong> React, Node.js</small></p>
-    <a href="https://github.com/your-project" target="_blank">
-      <i class="fab fa-github"></i> View on GitHub
-    </a>
+    <p>Built a collaborative task management app with real-time notifications.</p>
+    <p><small>React, Node.js</small></p>
+    <a href="https://github.com/your-project" target="_blank"><i class="fab fa-github"></i></a>
   </div>
 
   <div class="project-card">
     <h3>Project C</h3>
-    <p><strong>Summary:</strong> Android app for wheelchair users to log and track breakdown issues and repair history.</p>
-    <p><small><strong>Tech Stack:</strong> Kotlin, Firebase</small></p>
-    <a href="https://github.com/your-project" target="_blank">
-      <i class="fab fa-github"></i> View on GitHub
-    </a>
+    <p>Android app for wheelchair users to log and track breakdown issues and repair history.</p>
+    <p><small>Kotlin, Firebase</small></p>
+    <a href="https://github.com/your-project" target="_blank"><i class="fab fa-github"></i></a>
   </div>
 
   <!-- Add more project cards here -->
