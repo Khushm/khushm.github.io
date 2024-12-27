@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /experience
 title: "My Work in Action"
 author_profile: true
 redirect_from: 
