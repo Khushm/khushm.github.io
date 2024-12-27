@@ -59,7 +59,7 @@ author_profile: true
 <div class="projects-container">
   <div class="project-card">
     <h3>Project A</h3>
-    <p><strong>Technology:</strong> Python, Flask</p>
+    <p><strong>Technology:</strong> Python, Flask, Python, Flask, Python, Flask</p>
     <p><strong>Summary:</strong> Developed a RESTful API for managing tasks and scheduling automation.</p>
     <a href="https://github.com/your-project" target="_blank">View on GitHub</a>
   </div>
