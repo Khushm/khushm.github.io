@@ -1,10 +1,8 @@
 ---
-permalink: /experience
+layout: archive
+permalink: /experience/
 title: "My Work in Action"
 author_profile: true
-redirect_from: 
-  - /experience/
-  - /experience.html
 ---
 
 **Student Research Assistant**  
