@@ -58,7 +58,7 @@ author_profile: true
   }
 
   .project-card i {
-    font-size: 28px; /* Adjust size for the GitHub icon */
+    font-size: 20px; /* Adjust size for the GitHub icon */
     transition: color 0.3s ease;
   }
   .project-card a:focus, .project-card a:hover {
