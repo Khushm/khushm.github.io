@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Engineer | Innovator | Creator <br>
+### Engineer | Innovator | Creator <br>
 Passionate MS in Computer Science student at The Ohio State University with a strong foundation in software engineering, machine learning, and cloud computing. Experienced in software development, data analysis, and system optimization. Looking for opportunities to apply skills in a challenging engineering role.
 
 Education
