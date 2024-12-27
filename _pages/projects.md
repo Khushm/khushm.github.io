@@ -34,6 +34,7 @@ author_profile: true
 
   .project-card h3 {
     margin-bottom: 10px;
+    margin-top: 10px;
     font-size: 18px;
   }
 
