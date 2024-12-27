@@ -7,23 +7,61 @@ redirect_from:
   - /about.html
 ---
 
+About Me:
+======
+
+Passionate MS in Computer Science student at The Ohio State University with a strong foundation in software engineering, machine learning, and cloud computing. Experienced in software development, data analysis, and system optimization. Looking for opportunities to apply skills in a challenging engineering role.
 
 Education
 ======
 
-| **Degree**                               | **Institution**                        | **Year**            | **Grade**                                                  |
-|------------------------------------------|----------------------------------------|---------------------|------------------------------------------------------------|
-| **Master of Science in Computer Science and Engineering** | The Ohio State University, USA         | 2026      | **3.67/4 GPA**                                             |
-| **Bachelor of Technology in Computer Engineering**         | Savitribai Phule Pune University, India | 2023         | **9.24/10 CGPA** <br> [Transcript](#) <br> [Degree Certificate](#) |
+**Master of Science in Computer Science and Engineering**  
+*The Ohio State University* | **2023 - Expected 2026**  
+- **GPA**: 3.67/4  
+- **Relevant Courses**: Advanced Operating System, Advanced Artificial Intelligence, Data Mining  
+
+**Bachelor of Technology in Computer Engineering**  
+*Vishwakarma Institute of Technology, Affiliated to Savitribai Phule Pune University, India* | **2019 - 2023**  
+- **CGPA**: 9.24/10
+- **Rank**: Top 17% of the class
+- [Transcript](#)  
+- [Degree Certificate](#)
 
 
-Work Experience
+My Work in Action
 ======
 
-## **Software Engineer Intern**  
-**ABC Tech Solutions**  
-**May 2023 – Aug 2023**  |  *New York, USA*  
+**Student Research Assistant**  
+*[Rehabilitation Engineering Design Laboratory, OSU](https://red.osu.edu/team/)* | **Sep 2024 – Present**  
+- a
+  - v
+  - x
+- x
 
-- **Developed a machine learning model** for predictive analytics, improving data accuracy by **20%**.  
-- **Collaborated with cross-functional teams** to design and implement new features, reducing response time by **25%**.  
-- **Optimized backend code**, increasing system efficiency and reducing latency by **30%**.  
+**Student Teaching Assistant**  
+*[Rehabilitation Engineering Design Laboratory, OSU](https://cse.osu.edu/)* | **Sep 2024 – Present**  
+- a
+  - v
+  - x
+- x
+
+My Technical Toolkit
+======
+
+- **Student Research Assistant**: a, b, c
+- **Hey**: a, b, c
+
+
+Published Work
+======
+
+- [Paper name](#)
+
+Leadership Experience
+======
+
+- a
+- c
+- d
+- c
+- e
