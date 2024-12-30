@@ -16,6 +16,10 @@ Passionate MS in Computer Science student at The Ohio State University with a st
 Education
 ======
 
+<label for="toggle1" class="experience-title">
+    <strong>Student Research Assistant</strong>  
+    <span><a href="https://red.osu.edu/team/" target="_blank">Rehabilitation Engineering Design Laboratory, OSU</a> | Sep 2024 – Present</span>
+  </label>
 **Master of Science in Computer Science and Engineering**  
 *The Ohio State University* | **2023 - Expected 2026**  
 <div class="education-details">
@@ -37,6 +41,22 @@ Education
 </div>
 
 <style>
+  .experience-title {
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 8px;
+    display: inline-block;
+  }
+
+  .experience-title span {
+    display: block;
+    font-size: 14px;
+    color: #555;
+    margin-top: 4px;
+  }
+  
   .education-details ul {
     list-style: none; /* Remove default bullets */
     padding-left: 15px; /* Pull the text closer to the line */
