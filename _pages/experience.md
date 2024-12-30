@@ -5,11 +5,78 @@ title: "My Work in Action"
 author_profile: true
 ---
 
-<input type="checkbox" id="section1" class="collapse-toggle">
-<label for="section1" class="collapse-label">Click to expand</label>
-<div class="collapse-content">
-  <p>Your long content goes here.</p>
+<input type="radio" id="job1" name="job" class="job-toggle">
+<label for="job1">Student Research Assistant</label>
+<div class="job-description">
+  <p>Detailed job description goes here...</p>
 </div>
+
+<input type="radio" id="job2" name="job" class="job-toggle">
+<label for="job2">Student Teaching Assistant</label>
+<div class="job-description">
+  <p>Detailed job description goes here...</p>
+</div>
+
+<style>
+  .job-description {
+    display: none;
+  }
+
+  .job-toggle:checked + label + .job-description {
+    display: block;
+  }
+</style>
+
+
+<div class="timeline">
+  <div class="timeline-item">
+    <div class="timeline-content">
+      <h3>Student Research Assistant</h3>
+      <p>Rehabilitation Engineering Design Laboratory, OSU</p>
+      <p>Sep 2024 – Present</p>
+      <p class="description">Short description...</p>
+    </div>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-content">
+      <h3>Student Teaching Assistant</h3>
+      <p>Rehabilitation Engineering Design Laboratory, OSU</p>
+      <p>Sep 2024 – Present</p>
+      <p class="description">Short description...</p>
+    </div>
+  </div>
+</div>
+
+<style>
+  .timeline {
+    position: relative;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+
+  .timeline-item {
+    position: relative;
+    margin: 20px 0;
+  }
+
+  .timeline-content {
+    background: #f4f4f9;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+
+  .timeline-content:hover .description {
+    display: block;
+  }
+
+  .description {
+    display: none;
+    font-size: 14px;
+    margin-top: 10px;
+  }
+</style>
+
 
 
 <div class="experience-item">
@@ -45,23 +112,6 @@ author_profile: true
 </div>
 
 <style>
-  .collapse-content {
-  display: none;
-}
-
-.collapse-toggle:checked + .collapse-label + .collapse-content {
-  display: block;
-}
-
-.collapse-label {
-  cursor: pointer;
-  font-weight: bold;
-  color: #007acc;
-}
-
-.collapse-label:hover {
-  text-decoration: underline;
-}
 
   
   /* Container for each experience item */
