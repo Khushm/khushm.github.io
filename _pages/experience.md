@@ -36,7 +36,7 @@ author_profile: true
 
 <style>
   .experience-description p {
-    font-size: 16px; /* Adjust font size */
+    font-size: 14px; /* Adjust font size */
     line-height: 1.6; /* Add some space between lines */
     color: #333; /* Dark gray for text */
     margin-bottom: 20px; /* Space between paragraphs */
