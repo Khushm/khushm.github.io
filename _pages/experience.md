@@ -5,6 +5,30 @@ title: "My Work in Action"
 author_profile: true
 ---
 
+<input type="checkbox" id="section1" class="collapse-toggle">
+<label for="section1" class="collapse-label">Click to expand</label>
+<div class="collapse-content">
+  <p>Your long content goes here.</p>
+</div>
+
+.collapse-content {
+  display: none;
+}
+
+.collapse-toggle:checked + .collapse-label + .collapse-content {
+  display: block;
+}
+
+.collapse-label {
+  cursor: pointer;
+  font-weight: bold;
+  color: #007acc;
+}
+
+.collapse-label:hover {
+  text-decoration: underline;
+}
+
 <div class="experience-item">
   <div class="experience-title">
     <strong>Student Research Assistant</strong>  
