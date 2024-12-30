@@ -40,12 +40,14 @@ Education
   .education-details ul {
     list-style: none; /* Remove default bullets */
     padding-left: 15px; /* Pull the line closer to the text */
+    padding-top: 5px;
+    padding-bottom: 5px;
     border-left: 3px solid #d3d3d3; /* Thicker and lighter grey line */
     margin: 0;
   }
 
   .education-details ul li {
-    padding: 3px 0; /* Reduce gap between lines */
+    padding: 1px 0; /* Reduce gap between lines */
     font-size: 14px; /* Optional: Adjust text size for a tighter appearance */
   }
 </style>
