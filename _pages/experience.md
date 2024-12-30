@@ -11,23 +11,6 @@ author_profile: true
   <p>Your long content goes here.</p>
 </div>
 
-.collapse-content {
-  display: none;
-}
-
-.collapse-toggle:checked + .collapse-label + .collapse-content {
-  display: block;
-}
-
-.collapse-label {
-  cursor: pointer;
-  font-weight: bold;
-  color: #007acc;
-}
-
-.collapse-label:hover {
-  text-decoration: underline;
-}
 
 <div class="experience-item">
   <div class="experience-title">
@@ -62,6 +45,25 @@ author_profile: true
 </div>
 
 <style>
+  .collapse-content {
+  display: none;
+}
+
+.collapse-toggle:checked + .collapse-label + .collapse-content {
+  display: block;
+}
+
+.collapse-label {
+  cursor: pointer;
+  font-weight: bold;
+  color: #007acc;
+}
+
+.collapse-label:hover {
+  text-decoration: underline;
+}
+
+  
   /* Container for each experience item */
   .experience-item {
     margin-bottom: 40px; /* Space between experience entries */
