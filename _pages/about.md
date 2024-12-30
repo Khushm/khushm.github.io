@@ -39,15 +39,23 @@ Education
 <style>
   .education-details ul {
     list-style: none; /* Remove default bullets */
-    padding-left: 15px; /* Pull the line closer to the text */
-    padding-top: 5px;
-    padding-bottom: 5px;
-    border-left: 3px solid #d3d3d3; /* Thicker and lighter grey line */
-    margin: 0;
-  }
+    padding-left: 15px; /* Pull the text closer to the line */
+    
+    position: relative; /* Enable pseudo-elements */
+}
+
+.education-details ul:before {
+    content: ''; /* Add a vertical line */
+    position: absolute;
+    left: 0; /* Align line to the left */
+    top: 10px; /* Start the line slightly lower */
+    bottom: 10px; /* End the line slightly higher */
+    width: 5px; /* Thickness of the line */
+    background-color: #e0e0e0; /* Lighter grey color */
+}
 
   .education-details ul li {
-    padding: 1px 0; /* Reduce gap between lines */
+    padding: 0.3px 0; /* Reduce gap between lines */
     font-size: 14px; /* Optional: Adjust text size for a tighter appearance */
   }
 </style>
