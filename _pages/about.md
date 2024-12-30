@@ -18,15 +18,37 @@ Education
 
 **Master of Science in Computer Science and Engineering**  
 *The Ohio State University* | **2023 - Expected 2026**  
-- **GPA**: 3.67/4  
-- **Relevant Courses**: Advanced Operating System, Advanced Artificial Intelligence, Data Mining  
+<div class="education-details">
+  <ul>
+    <li><strong>GPA:</strong> 3.67/4</li>
+    <li><strong>Relevant Courses:</strong> Advanced Operating System, Advanced Artificial Intelligence, Data Mining</li>
+  </ul>
+</div>
 
 **Bachelor of Technology in Computer Engineering**  
 *Vishwakarma Institute of Technology, Affiliated to Savitribai Phule Pune University, India* | **2019 - 2023**  
-- **CGPA**: 9.24/10
-- **Rank**: Top 17% of the class
-- [Transcript](#)  
-- [Degree Certificate](#)
+<div class="education-details">
+  <ul>
+    <li><strong>CGPA:</strong> 9.24/10</li>
+    <li><strong>Rank:</strong> Top 17% of the class</li>
+    <li><a href="#">Transcript</a></li>
+    <li><a href="#">Degree Certificate</a></li>
+  </ul>
+</div>
+
+<style>
+  .education-details ul {
+    list-style: none; /* Remove default bullets */
+    padding-left: 20px; /* Add space to the left */
+    border-left: 2px solid grey; /* Vertical grey line */
+    margin: 0;
+  }
+
+  .education-details ul li {
+    padding: 5px 0; /* Space between list items */
+  }
+</style>
+
 
 
 My Technical Toolkit
