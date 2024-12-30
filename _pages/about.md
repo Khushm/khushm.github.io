@@ -17,11 +17,9 @@ Education
 ======
 
 <label for="toggle1" class="experience-title">
-    <strong>Student Research Assistant</strong>  
-    <span><a href="https://red.osu.edu/team/" target="_blank">Rehabilitation Engineering Design Laboratory, OSU</a> | Sep 2024 – Present</span>
-  </label>
-**Master of Science in Computer Science and Engineering**  
-*The Ohio State University* | **2023 - Expected 2026**  
+    <strong>Master of Science in Computer Science and Engineering</strong>  
+    <span><a href="https://red.osu.edu/team/" target="_blank">The Ohio State University</a> | 2023 - Expected 2026</span>
+  </label> 
 <div class="education-details">
   <ul>
     <li><strong>GPA:</strong> 3.67/4</li>
