@@ -41,18 +41,16 @@ Education
 <style>
   .experience-title {
     cursor: pointer;
-    font-size: 16px;
+    font-size: 14px;
     font-weight: bold;
-    color: #333;
-    margin-bottom: 8px;
+    margin-bottom: -1px;
     display: inline-block;
   }
 
   .experience-title span {
     display: block;
     font-size: 14px;
-    color: #555;
-    margin-top: 4px;
+    margin-top: 2px;
   }
   
   .education-details ul {
