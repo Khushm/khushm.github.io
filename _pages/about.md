@@ -40,7 +40,6 @@ Education
   .education-details ul {
     list-style: none; /* Remove default bullets */
     padding-left: 15px; /* Pull the text closer to the line */
-    
     position: relative; /* Enable pseudo-elements */
 }
 
@@ -56,6 +55,7 @@ Education
 
   .education-details ul li {
     padding: 0.3px 0; /* Reduce gap between lines */
+    margin-bottom: 1px;
     font-size: 14px; /* Optional: Adjust text size for a tighter appearance */
   }
 </style>
