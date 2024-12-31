@@ -82,6 +82,13 @@ author_profile: true
     <a href="https://github.com/Khushm/eda" target="_blank"><i class="fab fa-github"></i></a>
   </div>
 
+<div class="project-card">
+    <h3>Heart Disease Prediction Classifier</h3>
+    <p>Developed and optimized classifiers (KNN, Logistic Regression, Random Forest) to predict heart health status and recommend interventions. Achieved the highest NET_BENEFIT by fine-tuning models based on intervention costs and benefits.</p>
+    <p><small>Python, scikit-learn, Pandas, Matplotlib</small></p>
+    <a href="https://github.com/Khushm/classification" target="_blank"><i class="fab fa-github"></i></a>
+  </div>
+  
   <div class="project-card">
     <h3>Autonomous Car for Indian Terrain</h3>
     <p>Led a project addressing Indian-specific road challenges, including pothole detection and obscured road signs, using Computer Vision and Neural Networks. Developed real-time solutions leveraging OpenCV and Deep Reinforcement Learning for autonomous navigation.</p>
