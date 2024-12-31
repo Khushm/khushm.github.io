@@ -59,7 +59,7 @@ Education
   .education-section, .toolkit-section {
     margin: 10px 0;
     padding: 5px 15px;
-    border-left: 4px solid #0066cc; /* Professional blue accent */
+    border-left: 4px solid #2f7f93; /* Professional blue accent */
     background-color: #f9f9f9; /* Subtle off-white background */
     border-radius: 6px; /* Rounded edges */
   }
@@ -85,7 +85,7 @@ Education
   }
 
   .experience-title a {
-    color: #0066cc; /* Blue links */
+    color: #2f7f93; /* Blue links */
     text-decoration: none;
   }
 
@@ -106,7 +106,7 @@ Education
   }
 
   .education-details ul li a {
-    color: #0066cc; /* Keep links consistent */
+    color: #2f7f93; /* Keep links consistent */
     text-decoration: none;
   }
 
