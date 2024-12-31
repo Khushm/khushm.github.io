@@ -5,101 +5,99 @@ title: "My Work in Action"
 author_profile: true
 ---
  
-<div class="experience-item">
-  <input type="checkbox" id="toggle1" class="toggle" />
-  <label for="toggle1" class="experience-title">
-    <strong>Student Research Assistant</strong>  
-    <span><a href="https://red.osu.edu/team/" target="_blank">Rehabilitation Engineering Design Laboratory, OSU</a> | Sep 2024 – Present</span>
-  </label>
-  
-  <div class="experience-description">
-    <p class="preview">
-      Spearheaded the automation of critical surveillance processes, cutting manual efforts by 80% and enabling real-time truck detection...
-    </p>
-    <p class="full-description">
-      Spearheaded the automation of critical surveillance processes, cutting manual efforts by 80% and enabling real-time truck detection and tracking using PP-Yolo and Byte-Tracker models. Enhanced security operations by automating CCTV monitoring with OpenCV, implementing features to detect video blur, scene changes, time mismatches, video loss, and hard disk health issues, improving system reliability by 40%. Developed an OCR system with PaddleOCR, boosting skewed text recognition accuracy by 25%, and built predictive models for age, gender, and emotion detection, increasing image analysis accuracy by 30%.<br>Designed and deployed an end-to-end data processing pipeline integrating a ReactJS UI, FastAPI backend, MongoDB for data retrieval, RabbitMQ for efficient messaging, and Docker for containerization, accelerating data processing speeds by 50%. These innovations significantly improved operational efficiency, ensuring faster alerts and greater reliability in real-time tracking and security monitoring. This project reinforced my expertise in computer vision and automation while delivering measurable business impact and showcasing my ability to create scalable, high-performing solutions.
-    </p>
+<div class="timeline">
+  <!-- Experience 1 -->
+  <div class="timeline-item">
+    <div class="timeline-marker"></div>
+    <div class="timeline-content">
+      <h3>Student Research Assistant</h3>
+      <p><a href="https://red.osu.edu/team/" target="_blank">Rehabilitation Engineering Design Laboratory, OSU</a></p>
+      <span>Sep 2024 – Present</span>
+      <p class="details">Spearheaded automation of critical surveillance processes, cutting manual efforts by 80%, and enabling real-time truck detection using advanced models. Improved security operations and data processing with innovative pipelines, boosting overall system reliability and efficiency.</p>
+    </div>
   </div>
+
+  <!-- Experience 2 -->
+  <div class="timeline-item">
+    <div class="timeline-marker"></div>
+    <div class="timeline-content">
+      <h3>Student Teaching Assistant</h3>
+      <p><a href="https://cse.osu.edu/" target="_blank">Department of Computer Science, OSU</a></p>
+      <span>Sep 2023 – May 2024</span>
+      <p class="details">Led lab sessions, facilitated workshops, and mentored students in rehabilitation engineering concepts, ensuring comprehensive understanding and practical application of theories.</p>
+    </div>
+  </div>
+
+  <!-- Add more experiences here -->
 </div>
 
 <style>
-  /* Container for each experience item */
-  .experience-item {
-    margin-bottom: 20px;
+  .timeline {
+    position: relative;
+    margin: 20px 0;
+    padding-left: 40px;
+    border-left: 2px solid #e0e0e0;
   }
 
-  /* Hidden checkbox for toggling */
-  .toggle {
-    display: none;
+  .timeline-item {
+    position: relative;
+    margin-bottom: 30px;
   }
 
-  /* Styling the title label */
-  .experience-title {
-    cursor: pointer;
-    font-size: 16px;
-    font-weight: bold;
-    color: #333;
-    margin-bottom: 8px;
-    display: inline-block;
+  .timeline-marker {
+    position: absolute;
+    left: -7px;
+    top: 0;
+    width: 14px;
+    height: 14px;
+    background-color: #ba0c2f;
+    border: 2px solid white;
+    border-radius: 50%;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
   }
 
-  .experience-title span {
-    display: block;
-    font-size: 14px;
-    color: #555;
-    margin-top: 4px;
-  }
-
-  /* Description styling */
-  .experience-description {
-    background-color: #f9f9f9;
+  .timeline-content {
     padding: 10px 15px;
-    border-left: 5px solid #ba0c2f; /* Accent color */
-    border-radius: 5px;
+    background: #f9f9f9;
+    border-radius: 8px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    margin-top: 10px;
-  }
-
-  /* Initially show only the preview text */
-  .experience-description .preview {
-    font-size: 15px;
+    font-size: 14px;
     line-height: 1.6;
+  }
+
+  .timeline-content h3 {
+    margin-top: 0;
+    margin-bottom: 5px;
+    font-size: 16px;
     color: #333;
-    margin-bottom: 0;
+  }
+
+  .timeline-content p {
+    margin: 5px 0;
+    color: #555;
+  }
+
+  .timeline-content span {
     display: block;
+    font-size: 13px;
+    color: #777;
+    margin-bottom: 8px;
   }
 
-  /* Full description hidden initially */
-  .experience-description .full-description {
-    display: none;
-    font-size: 15px;
-    line-height: 1.6;
-    color: #333;
-    margin-top: 5px;
-  }
-
-  /* When checkbox is checked, toggle visibility */
-  .toggle:checked ~ .experience-description .preview {
-    display: none;
-  }
-
-  .toggle:checked ~ .experience-description .full-description {
-    display: block;
-  }
-
-  /* Link styling */
-  .experience-title a {
-    text-decoration: none;
+  .timeline-content a {
     color: #ba0c2f;
-    font-weight: normal;
+    text-decoration: none;
   }
 
-  .experience-title a:hover {
+  .timeline-content a:hover {
     text-decoration: underline;
   }
 
-  /* Professional color scheme */
-  .experience-title, .experience-description p {
-    color: #333;
+  .details {
+    display: none;
+  }
+
+  .timeline-content:hover .details {
+    display: block;
   }
 </style>
