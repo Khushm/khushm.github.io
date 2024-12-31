@@ -54,7 +54,7 @@ author_profile: true
   }
 
   .project-card a:hover {
-    color: #0077b5;
+    color: #2F7F93;
   }
 
   .project-card i {
@@ -68,10 +68,10 @@ author_profile: true
 
 <div class="projects-container">
   <div class="project-card">
-    <h3>Project A</h3>
-    <p>Developed a RESTful API for managing tasks and scheduling automation.</p>
-    <p><small>Python, Flask</small></p>
-    <a href="https://github.com/your-project" target="_blank"><i class="fab fa-github"></i></a>
+    <h3>SRIP IITGN 2022: Advancing Bayesian ML with JAX</h3>
+    <p>Developed neural network classifiers, Bayesian linear regression models, and sampling methods for multivariate normal distributions using JAX, Google's high-performance ML library. Enhanced probabilistic modeling for MNIST classification and Bayesian analysis from scratch, solidifying understanding of advanced ML techniques.</p>
+    <p><small>JAX, Python, NumPy, SciPy, Matplotlib</small></p>
+    <a href="https://github.com/Khushm/SRIP-IITGN-2022" target="_blank"><i class="fab fa-github"></i></a>
   </div>
 
   <div class="project-card">
