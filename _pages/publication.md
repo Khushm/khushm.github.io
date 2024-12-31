@@ -18,6 +18,7 @@ DOI: 10.2196/55511
 
 - **[Download Paper](files/paper1.pdf)**
 
+<br><br>
 
 **[Bridging the Accessibility Gap: The Role of AI in Creating an Inclusive Society](#)**  
 Published in 2024
