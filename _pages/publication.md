@@ -16,4 +16,12 @@ Predicting the Transition From Depression to Suicidal Ideation Using Facebook Da
 JMIR Res Protoc 2024;13:e55511
 DOI: 10.2196/55511
 
-- **[Download Paper](http://academicpages.github.io/files/paper1.pdf)**
+- **[Download Paper](files/paper1.pdf)**
+
+
+**[Bridging the Accessibility Gap: The Role of AI in Creating an Inclusive Society](#)**  
+Published in 2024
+
+Examining the transformative impact of AI on accessibility, this research highlights how AI-driven solutions, such as Visual Assistant Technologies and Speech Recognition Systems, empower individuals with disabilities, including those with visual, speech, and cognitive impairments. Addressing the needs of over 1 billion people globally, the study explores advancements, challenges, and ethical considerations, offering new perspectives on bridging accessibility gaps. By emphasizing AI's potential to promote inclusion and independence, this paper contributes to the ongoing dialogue on creating a more equitable society.
+
+- **[Download Paper](files/paper2.pdf)**
