@@ -67,6 +67,29 @@ author_profile: true
 </style>
 
 <div class="projects-container">
+  
+  <div class="project-card">
+    <h3>Exploratory Data Analysis</h3>
+    <p>Analyzed a modified version of the Pima Indians Diabetes Database to predict diabetes risk, employing techniques like EDA, data cleaning, and logistic regression. Built and evaluated a predictive model to classify patients’ likelihood of diabetes, ensuring the model’s accuracy through various performance metrics.</p>
+    <p><small>Python, Pandas, Matplotlib, Scikit-learn, Seaborn</small></p>
+    <a href="https://github.com/Khushm/eda" target="_blank"><i class="fab fa-github"></i></a>
+  </div>
+
+<div class="project-card">
+    <h3>Vitarana Drone</h3>
+    <p>Designed drone navigation algorithms using Python and ROS Melodic with the Bug2 algorithm for real-time obstacle avoidance. Presented technical progress and collaborated with cross-functional teams during the Eyantra Robotic Competition (eYRC) hosted by IIT Bombay.</p>
+    <p><small>Python, ROS Melodic, Bug2 Algorithm, Robotics</small></p>
+    <a href="https://github.com/Khushm/eda" target="_blank"><i class="fab fa-github"></i></a>
+  </div>
+
+  <div class="project-card">
+    <h3>Autonomous Car for Indian Terrain</h3>
+    <p>Led a project addressing Indian-specific road challenges, including pothole detection and obscured road signs, using Computer Vision and Neural Networks. Developed real-time solutions leveraging OpenCV and Deep Reinforcement Learning for autonomous navigation.</p>
+    <p><small>OpenCV, Deep Reinforcement Learning, Neural Networks, Python</small></p>
+    <a href="https://github.com/Khushm/eda" target="_blank"><i class="fab fa-github"></i></a>
+  </div>
+  
+  
   <div class="project-card">
     <h3>SRIP IITGN 2022: Advancing Bayesian ML with JAX</h3>
     <p>Developed neural network classifiers, Bayesian linear regression models, and sampling methods for multivariate normal distributions using JAX, Google's high-performance ML library. Enhanced probabilistic modeling for MNIST classification and Bayesian analysis from scratch, solidifying understanding of advanced ML techniques.</p>
@@ -81,12 +104,7 @@ author_profile: true
     <a href="https://github.com/Khushm/SWD" target="_blank"><i class="fab fa-github"></i></a>
   </div>
 
-  <div class="project-card">
-    <h3>Exploratory Data Analysis</h3>
-    <p>Analyzed a modified version of the Pima Indians Diabetes Database to predict diabetes risk, employing techniques like EDA, data cleaning, and logistic regression. Built and evaluated a predictive model to classify patients’ likelihood of diabetes, ensuring the model’s accuracy through various performance metrics.</p>
-    <p><small>Python, Pandas, Matplotlib, Scikit-learn, Seaborn</small></p>
-    <a href="https://github.com/Khushm/eda" target="_blank"><i class="fab fa-github"></i></a>
-  </div>
+  
 
   <!-- Add more project cards here -->
 </div>
