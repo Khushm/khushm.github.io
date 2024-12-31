@@ -21,4 +21,9 @@ Through these roles, I developed strong leadership, communication, and organizat
 More Than Just a Coder
 ====
 
--
+- Trekking
+- Reading
+- Puzzle-solving
+- Billiards
+- Volunteering
+- Tech Exploration
