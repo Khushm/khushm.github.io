@@ -27,8 +27,8 @@
 #     url: /markdown/
 
 main:
-  - title: "Education"
-    url: /about/
+  # - title: "Education"
+  #   url: /about/
     
   - title: "Experience"
     url: /experience/
