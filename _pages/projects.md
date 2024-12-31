@@ -76,16 +76,16 @@ author_profile: true
 
   <div class="project-card">
     <h3>Socials Website</h3>
-    <p>Designed and implemented the official dynamic [website](https://swd.vit.edu/), streamlining committee updates and engagement. Enhanced accessibility and increased user interaction, driving a 30% growth in participation.</p>
+    <p>Designed and implemented the official dynamic website, streamlining committee updates and engagement. Enhanced accessibility and increased user interaction, driving a 30% growth in participation.</p>
     <p><small>HTML, CSS, JavaScript, PHP, Bootstrap</small></p>
     <a href="https://github.com/Khushm/SWD" target="_blank"><i class="fab fa-github"></i></a>
   </div>
 
   <div class="project-card">
-    <h3>Project C</h3>
-    <p>Android app for wheelchair users to log and track breakdown issues and repair history.</p>
-    <p><small>Kotlin, Firebase</small></p>
-    <a href="https://github.com/your-project" target="_blank"><i class="fab fa-github"></i></a>
+    <h3>Exploratory Data Analysis</h3>
+    <p>Analyzed a modified version of the Pima Indians Diabetes Database to predict diabetes risk, employing techniques like EDA, data cleaning, and logistic regression. Built and evaluated a predictive model to classify patients’ likelihood of diabetes, ensuring the model’s accuracy through various performance metrics.</p>
+    <p><small>Python, Pandas, Matplotlib, Scikit-learn, Seaborn</small></p>
+    <a href="https://github.com/Khushm/eda" target="_blank"><i class="fab fa-github"></i></a>
   </div>
 
   <!-- Add more project cards here -->
