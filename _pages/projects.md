@@ -93,7 +93,13 @@ author_profile: true
     <h3>Autonomous Car for Indian Terrain</h3>
     <p>Led a project addressing Indian-specific road challenges, including pothole detection and obscured road signs, using Computer Vision and Neural Networks. Developed real-time solutions leveraging OpenCV and Deep Reinforcement Learning for autonomous navigation.</p>
     <p><small>OpenCV, Deep Reinforcement Learning, Neural Networks, Python</small></p>
-    
+  </div>
+
+  <div class="project-card">
+    <h3>Clustering Analysis on Multiple Datasets</h3>
+    <p>Applied and evaluated clustering algorithms (K-Means, DBSCAN, Agglomerative Clustering) on three diverse datasets to assess performance and cluster accuracy. Fine-tuned algorithms for optimal results, achieving high cluster alignment with true labels.</p>
+    <p><small>Python, scikit-learn, Pandas, Matplotlib</small></p>
+    <a href="https://github.com/Khushm/clustering" target="_blank"><i class="fab fa-github"></i></a>
   </div>
   
   
