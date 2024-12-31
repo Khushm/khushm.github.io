@@ -28,6 +28,9 @@ author_profile: true
     </div>
   </div>
 
+<p style="text-align: center; font-size: 14px; color: #555; margin-top: 20px;">
+    Click or tap a role to read more details.
+  </p>
   <!-- Add more experiences here -->
 </div>
 
@@ -50,7 +53,7 @@ author_profile: true
     top: 0;
     width: 14px;
     height: 14px;
-    background-color: #ba0c2f;
+    background-color: #2f7f93;
     border: 2px solid white;
     border-radius: 50%;
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
@@ -85,7 +88,7 @@ author_profile: true
   }
 
   .timeline-content a {
-    color: #ba0c2f;
+    color: #2f7f93;
     text-decoration: none;
   }
 
