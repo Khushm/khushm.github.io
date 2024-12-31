@@ -33,13 +33,13 @@ author_profile: true
   }
 
   .project-card h3 {
-    margin-bottom: 10px;
-    margin-top: 10px;
-    font-size: 18px;
+    margin-bottom: 6px;
+    margin-top: 6px;
+    font-size: 14px;
   }
 
   .project-card p {
-    font-size: 12px;  /* Smaller text for the summary */
+    font-size: 10px;  /* Smaller text for the summary */
     margin: 5px 0;
   }
 
@@ -68,17 +68,17 @@ author_profile: true
 
 <div class="projects-container">
   <div class="project-card">
-    <h5>SRIP IITGN 2022: Advancing Bayesian ML with JAX</h5>
+    <h3>SRIP IITGN 2022: Advancing Bayesian ML with JAX</h3>
     <p>Developed neural network classifiers, Bayesian linear regression models, and sampling methods for multivariate normal distributions using JAX, Google's high-performance ML library. Enhanced probabilistic modeling for MNIST classification and Bayesian analysis from scratch, solidifying understanding of advanced ML techniques.</p>
     <p><small>JAX, Python, NumPy, SciPy, Matplotlib</small></p>
     <a href="https://github.com/Khushm/SRIP-IITGN-2022" target="_blank"><i class="fab fa-github"></i></a>
   </div>
 
   <div class="project-card">
-    <h5>Socials Website</h5>
+    <h3>Socials Website</h3>
     <p>Designed and implemented the official dynamic [website](https://swd.vit.edu/), streamlining committee updates and engagement. Enhanced accessibility and increased user interaction, driving a 30% growth in participation.</p>
     <p><small>HTML, CSS, JavaScript, PHP, Bootstrap</small></p>
-    <a href="https://github.com/your-project" target="_blank"><i class="fab fa-github"></i></a>
+    <a href="https://github.com/Khushm/SWD" target="_blank"><i class="fab fa-github"></i></a>
   </div>
 
   <div class="project-card">
