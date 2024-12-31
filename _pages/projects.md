@@ -135,6 +135,14 @@ author_profile: true
     <p><small>Python, Pandas, mlxtend, Matplotlib</small></p>
     <a href="https://github.com/Khushm/associationrules" target="_blank"><i class="fab fa-github"></i></a>
   </div>
+
+  <div class="project-card">
+    <h3>Character Recognition System</h3>
+    <p>Developed a character recognition system where users draw characters, which are then processed into images for recognition. Utilized the EMNIST dataset for training a k-NN classifier, enabling the system to predict labels of newly drawn characters with high accuracy.</p>
+    <p><small>Python, EMNIST Dataset, k-NN Classifier, Image Processing, Machine Learning</small></p>
+    <a href="https://github.com/Khushm/Code_Twisto" target="_blank"><i class="fab fa-github"></i></a>
+  </div>
+
   
   <div class="project-card">
     <h3>Socials Website</h3>
