@@ -17,13 +17,11 @@ Education
 
 
 <div class="education-section">
-  <h2>Education</h2>
-
   <!-- Master's Details -->
   <div class="education-item">
     <label class="experience-title">
       <strong>Master of Science in Computer Science and Engineering</strong>
-      <span><a href="https://red.osu.edu/team/" target="_blank">The Ohio State University</a> | 2023 - Expected 2026</span>
+      <span><a href="https://cse.osu.edu/" target="_blank">The Ohio State University</a> | 2023 - Expected 2026</span>
     </label>
     <div class="education-details">
       <ul>
@@ -32,12 +30,13 @@ Education
       </ul>
     </div>
   </div>
-
+</div>
+<div class="education-section">
   <!-- Bachelor's Details -->
   <div class="education-item">
     <label class="experience-title">
       <strong>Bachelor of Technology in Computer Engineering</strong>
-      <span>Vishwakarma Institute of Technology, Affiliated to Savitribai Phule Pune University, India | 2019 - 2023</span>
+      <span><a href="https://cse.osu.edu/" target="_blank">Vishwakarma Institute of Technology, Affiliated to Savitribai Phule Pune University, India</a> | 2019 - 2023</span>
     </label>
     <div class="education-details">
       <ul>
@@ -50,15 +49,6 @@ Education
   </div>
 </div>
 
-<div class="toolkit-section">
-  <h2>My Technical Toolkit</h2>
-  <ul class="toolkit-list">
-    <li><strong>Student Research Assistant:</strong> Advanced Operating Systems, Python, AI Modeling</li>
-    <li><strong>Other Role:</strong> ReactJS, MongoDB, FastAPI</li>
-    <li><strong>Additional Tools:</strong> Git, Docker, Postman</li>
-  </ul>
-</div>
-
 <style>
   /* General Styling */
   body {
@@ -69,7 +59,7 @@ Education
 
   /* Section Styling */
   .education-section, .toolkit-section {
-    margin: 20px 0;
+    margin: 1px 0;
     padding: 20px;
     border-left: 4px solid #0066cc; /* Professional blue accent */
     background-color: #f9f9f9; /* Subtle off-white background */
