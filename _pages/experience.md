@@ -21,10 +21,10 @@ author_profile: true
   <div class="timeline-item">
     <div class="timeline-marker"></div>
     <div class="timeline-content">
-      <h3>Student Teaching Assistant</h3>
+      <h3>Undergraduate Teaching Assistant</h3>
       <p><a href="https://cse.osu.edu/" target="_blank">Department of Computer Science, OSU</a></p>
-      <span>Sep 2023 – May 2024</span>
-      <p class="details">Led lab sessions, facilitated workshops, and mentored students in rehabilitation engineering concepts, ensuring comprehensive understanding and practical application of theories.</p>
+      <span>Sep 2024 – Dec 2024</span>
+      <p class="details">Graded 400+ assignments in Object-Oriented Programming and C++, providing personalized feedback to help students grasp key concepts and improve their programming skills. I identified common challenges and addressed individual problems, offering targeted explanations that significantly boosted student understanding and performance. This experience enhanced my problem-solving and teaching skills, allowing me to break down complex topics into simpler, digestible formats. Working with diverse students also sharpened my communication abilities, enabling me to tailor my approach to individual learning needs.</p>
     </div>
   </div>
 
@@ -33,9 +33,9 @@ author_profile: true
     <div class="timeline-marker"></div>
     <div class="timeline-content">
       <h3>Student Teaching Assistant</h3>
-      <p><a href="https://cse.osu.edu/" target="_blank">Department of Computer Science, OSU</a></p>
-      <span>Sep 2023 – May 2024</span>
-      <p class="details">Led lab sessions, facilitated workshops, and mentored students in rehabilitation engineering concepts, ensuring comprehensive understanding and practical application of theories.</p>
+      <p><a href="https://sites.google.com/view/nsuhci" target="_blank">North South University</a></p>
+      <span>Jan 2023 – Jul 2024</span>
+      <p class="details">Engineered innovative data collection systems to support cutting-edge research in mental health. For the suicidal ideation project, I developed a robust pipeline to gather and preprocess data from over 10,000 Facebook posts, utilizing text, emoji usage, and user interaction data to identify patterns linked to depression and suicidal thoughts. This effort directly contributed to the creation of a predictive model aimed at suicide prevention in South Asia, addressing regional challenges in behavioral patterns, socioeconomic factors, and language nuances. In parallel, I spearheaded the data analysis for the infodemic news analysis project, where I collected and processed a 4-year dataset of news articles from India, Bangladesh, and the UK. Using NLP techniques, I identified trends in misinformation during public health crises, providing actionable insights to enhance global public health response strategies. Additionally, I collaborated on building a machine learning model for stress level assessments based on psychological metrics (PSS, BFI-2), improving the accuracy of mental health diagnostics. This work reinforced my technical skills in Python, NLP, and data analytics, while also deepening my understanding of how data-driven approaches can address critical social challenges.</p>
     </div>
   </div>
 
@@ -46,7 +46,7 @@ author_profile: true
       <h3>Data Scientist</h3>
       <p><a href="https://www.markytics.com/" target="_blank">Markytics</a></p>
       <span>Feb 2023 – Sep 2023</span>
-      <p class="details">Led lab sessions, facilitated workshops, and mentored students in rehabilitation engineering concepts, ensuring comprehensive understanding and practical application of theories.</p>
+      <p class="details">Orchestrated the development of a robust sales forecasting model, achieving 92% accuracy using a customized FB-Prophet approach. This breakthrough significantly enhanced client decision-making and operational planning, directly contributing to improved forecasting precision, reduced operational costs, and increased client satisfaction. Collaborating with 10 stakeholders, I translated diverse business requirements into a scalable SaaS-based Point of Sale (POS) system, leveraging Django and React to seamlessly integrate real-time sales and returns reporting via REST APIs, which streamlined internal operations and reduced reporting time by 30%. <br> To further enhance client communication, I developed and deployed a WhatsApp bot service, providing clients with real-time updates and improving engagement. By utilizing SQL, I optimized data extraction and preprocessing workflows, which not only improved model accuracy but also led to faster and more efficient data handling. Leading the team to deliver the POS system, I mentored 20 new employees in technical skills like Python, Django, and PostgreSQL. This not only fostered a culture of continuous learning but also strengthened the team’s overall technical proficiency. <br> This experience deepened my ability to bridge technical expertise with business outcomes, strengthening my problem-solving, leadership, and mentoring capabilities.</p>
     </div>
   </div>
 
@@ -79,8 +79,7 @@ author_profile: true
       <h3>Al&ML Intern</h3>
       <p><a href="https://smartiam.in/" target="_blank">Integrated Active Monitoring Pvt. Ltd., India</a></p>
       <span>Oct 2021 - Apr 2022</span>
-      <p class="details">Spearheaded the automation of critical surveillance processes, cutting manual efforts by 80% and enabling real-time truck detection and tracking using PP-Yolo and Byte-Tracker models. Enhanced security operations by automating CCTV monitoring with OpenCV, implementing features to detect video blur, scene changes, time mismatches, video loss, and hard disk health issues, improving system reliability by 40%. Developed an OCR system with PaddleOCR, boosting skewed text recognition accuracy by 25%, and built predictive models for age, gender, and emotion detection, increasing image analysis accuracy by 30%. <br>
-Designed and deployed an end-to-end data processing pipeline integrating a ReactJS UI, FastAPI backend, MongoDB for data retrieval, RabbitMQ for efficient messaging, and Docker for containerization, accelerating data processing speeds by 50%. These innovations significantly improved operational efficiency, ensuring faster alerts and greater reliability in real-time tracking and security monitoring. This project reinforced my expertise in computer vision and automation while delivering measurable business impact and showcasing my ability to create scalable, high-performing solutions.
+      <p class="details">Spearheaded the automation of critical surveillance processes, cutting manual efforts by 80% and enabling real-time truck detection and tracking using PP-Yolo and Byte-Tracker models. Enhanced security operations by automating CCTV monitoring with OpenCV, implementing features to detect video blur, scene changes, time mismatches, video loss, and hard disk health issues, improving system reliability by 40%. Developed an OCR system with PaddleOCR, boosting skewed text recognition accuracy by 25%, and built predictive models for age, gender, and emotion detection, increasing image analysis accuracy by 30%. <br> Designed and deployed an end-to-end data processing pipeline integrating a ReactJS UI, FastAPI backend, MongoDB for data retrieval, RabbitMQ for efficient messaging, and Docker for containerization, accelerating data processing speeds by 50%. These innovations significantly improved operational efficiency, ensuring faster alerts and greater reliability in real-time tracking and security monitoring. This project reinforced my expertise in computer vision and automation while delivering measurable business impact and showcasing my ability to create scalable, high-performing solutions.
 </p>
     </div>
   </div>
@@ -96,12 +95,12 @@ Designed and deployed an end-to-end data processing pipeline integrating a React
     </div>
   </div>
 
-  
-<p style="text-align: center; font-size: 14px; color: #555; margin-top: 20px;">
-    Click or tap a role to read more details.
-  </p>
-  <!-- Add more experiences here -->
 </div>
+
+<p style="text-align: center; font-size: 14px; color: #555; margin-top: 20px; font-style: italic;">
+    Click or tap a role to read more details.
+</p>
+
 
 <style>
   .timeline {
