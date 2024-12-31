@@ -16,7 +16,7 @@ Passionate MS in Computer Science student at The Ohio State University with a st
 Education
 ======
 
-<label for="toggle1" class="experience-title">
+<label class="experience-title">
     <strong>Master of Science in Computer Science and Engineering</strong>  
     <span><a href="https://red.osu.edu/team/" target="_blank">The Ohio State University</a> | 2023 - Expected 2026</span>
   </label> 
@@ -42,7 +42,7 @@ Education
   .experience-title {
     cursor: pointer;
     font-size: 14px;
-    font-weight: bold;
+    
     margin-bottom: -1px;
     display: inline-block;
   }
@@ -57,6 +57,8 @@ Education
     list-style: none; /* Remove default bullets */
     padding-left: 15px; /* Pull the text closer to the line */
     position: relative; /* Enable pseudo-elements */
+    margin-bottom: 30px;
+    margin-top: 7px;
 }
 
 .education-details ul:before {
