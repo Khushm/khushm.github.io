@@ -39,7 +39,7 @@ author_profile: true
   }
 
   .project-card p {
-    font-size: 10px;  /* Smaller text for the summary */
+    font-size: 11.5px;  /* Smaller text for the summary */
     margin: 5px 0;
   }
 
