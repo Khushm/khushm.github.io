@@ -162,7 +162,7 @@ author_profile: true
     <h3>At Your Service - Volunteer Platform for Essential Delivery Services</h3>
     <p>Developed a platform connecting volunteers with quarantined individuals to provide nutritious food, sanitizers, and medical information, ensuring quick, affordable deliveries. Empowered women volunteers to earn independently, while improving service efficiency and cost-effectiveness.</p>
     <p><small>PHP, HTML, CSS, JavaScript, MySQL, Bootstrap</small></p>
-    <a href="https://github.com/Khushm/TasteAsHome" target="_blank"><i class="fab fa-github"></i></a>
+    <a href="https://github.com/Khushm/At-Your-Service" target="_blank"><i class="fab fa-github"></i></a>
   </div>
 
   <!-- Add more project cards here -->
