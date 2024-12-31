@@ -114,7 +114,13 @@ author_profile: true
     <p><small>Python, scikit-learn, Pandas, Matplotlib</small></p>
     <a href="https://github.com/Khushm/clustering" target="_blank"><i class="fab fa-github"></i></a>
   </div>
-  
+
+  <div class="project-card">
+    <h3>Concurrent Transactions in Database Systems</h3>
+    <p>Implemented two paradigms for concurrency control in a simplified in-memory database: strict two-phase locking for serializability and pipelined execution for parallel transaction handling. Evaluated both techniques in a multi-threaded environment to optimize performance and maintain isolation.</p>
+    <p><small>Java, Multi-threading, Database Transaction Management, Concurrency Control</small></p>
+    <a href="" target="_blank"><i class="fab fa-github"></i></a>
+  </div>
   
   <div class="project-card">
     <h3>SRIP IITGN 2022: Advancing Bayesian ML with JAX</h3>
