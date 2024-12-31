@@ -110,6 +110,13 @@ author_profile: true
     <a href="https://github.com/Khushm/SRIP-IITGN-2022" target="_blank"><i class="fab fa-github"></i></a>
   </div>
 
+<div class="project-card">
+    <h3>Market Basket Analysis for Association Rule Mining</h3>
+    <p>Performed association rule mining on a market basket dataset with 50 transactions to uncover item relationships and customer purchase patterns. Used the Apriori algorithm and visualized the results with relevant metrics like support, confidence, and lift.</p>
+    <p><small>Python, Pandas, mlxtend, Matplotlib</small></p>
+    <a href="https://github.com/Khushm/associationrules" target="_blank"><i class="fab fa-github"></i></a>
+  </div>
+  
   <div class="project-card">
     <h3>Socials Website</h3>
     <p>Designed and implemented the official dynamic website, streamlining committee updates and engagement. Enhanced accessibility and increased user interaction, driving a 30% growth in participation.</p>
