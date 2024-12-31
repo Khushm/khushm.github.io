@@ -79,14 +79,27 @@ author_profile: true
     <h3>Vitarana Drone</h3>
     <p>Designed drone navigation algorithms using Python and ROS Melodic with the Bug2 algorithm for real-time obstacle avoidance. Presented technical progress and collaborated with cross-functional teams during the Eyantra Robotic Competition (eYRC) hosted by IIT Bombay.</p>
     <p><small>Python, ROS Melodic, Bug2 Algorithm, Robotics</small></p>
-    
   </div>
 
+<div class="project-card">
+    <h3>A* Graph Search Implementation</h3>
+    <p>Implemented the A* graph search algorithm, first using the default heuristic, followed by a more efficient "tighter" heuristic. Compared the two heuristics based on efficiency, number of paths explored, and frontier management.</p>
+    <p><small>Python, A* Algorithm, Data Structures</small></p>
+    <a href="" target="_blank"><i class="fab fa-github"></i></a>
+  </div>
+  
 <div class="project-card">
     <h3>Heart Disease Prediction Classifier</h3>
     <p>Developed and optimized classifiers (KNN, Logistic Regression, Random Forest) to predict heart health status and recommend interventions. Achieved the highest NET_BENEFIT by fine-tuning models based on intervention costs and benefits.</p>
     <p><small>Python, scikit-learn, Pandas, Matplotlib</small></p>
     <a href="https://github.com/Khushm/classification" target="_blank"><i class="fab fa-github"></i></a>
+  </div>
+
+  <div class="project-card">
+    <h3>2-Layer Feed-Forward Neural Network for Image Classification</h3>
+    <p>Developed a 2-layer feed-forward neural network to classify cat vs non-cat images. Implemented key functions including linear activation forward, cost computation, backward propagation, and parameter updates to complete the neural network model.</p>
+    <p><small>Python, NumPy, Neural Networks, Machine Learning</small></p>
+    <a href="" target="_blank"><i class="fab fa-github"></i></a>
   </div>
   
   <div class="project-card">
