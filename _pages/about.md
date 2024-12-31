@@ -52,26 +52,16 @@ Education
 <style>
   /* General Styling */
   body {
-    font-family: Arial, sans-serif;
     line-height: 1.6;
-    color: #333; /* Neutral grey for text */
   }
 
   /* Section Styling */
   .education-section, .toolkit-section {
-    margin: 1px 0;
-    padding: 20px;
+    margin: 10px 0;
+    padding: 5px 15px;
     border-left: 4px solid #0066cc; /* Professional blue accent */
     background-color: #f9f9f9; /* Subtle off-white background */
     border-radius: 6px; /* Rounded edges */
-  }
-
-  /* Headers */
-  h2 {
-    font-size: 18px;
-    margin-bottom: 15px;
-    color: #222; /* Darker grey for headers */
-    font-weight: bold;
   }
 
   /* Education Item Styling */
@@ -112,7 +102,7 @@ Education
 
   .education-details ul li {
     font-size: 14px;
-    margin-bottom: 8px; /* Space between items */
+    margin-bottom: 2px; /* Space between items */
   }
 
   .education-details ul li a {
