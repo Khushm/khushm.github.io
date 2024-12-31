@@ -28,7 +28,7 @@ Education
     <div class="education-details">
       <ul>
         <li><strong>GPA:</strong> 3.67/4</li>
-        <li><strong>Relevant Courses:</strong> Advanced Operating System, Advanced Artificial Intelligence, Data Mining</li>
+        <li><strong>Relevant Courses:</strong> Advanced Operating Systems, Advanced Artificial Intelligence, Data Mining</li>
       </ul>
     </div>
   </div>
@@ -53,9 +53,9 @@ Education
 <div class="toolkit-section">
   <h2>My Technical Toolkit</h2>
   <ul class="toolkit-list">
-    <li><strong>Student Research Assistant:</strong> Advanced Operating System, Python, AI Modeling</li>
+    <li><strong>Student Research Assistant:</strong> Advanced Operating Systems, Python, AI Modeling</li>
     <li><strong>Other Role:</strong> ReactJS, MongoDB, FastAPI</li>
-    <li><strong>Hey:</strong> Example Toolkit a, b, c</li>
+    <li><strong>Additional Tools:</strong> Git, Docker, Postman</li>
   </ul>
 </div>
 
@@ -64,44 +64,43 @@ Education
   .education-section, .toolkit-section {
     padding: 20px;
     margin: 20px 0;
-    border-left: 5px solid #ba0c2f; /* Accent color */
-    background-color: #fdfdfd;
-    border-radius: 8px;
-    box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.1);
+    border: 1px solid #ddd; /* Light grey border */
+    background-color: #fff; /* Clean white background */
+    border-radius: 8px; /* Slightly rounded corners */
   }
 
   /* Section Headers */
   .education-section h2, .toolkit-section h2 {
-    font-size: 24px;
+    font-size: 20px;
     margin-bottom: 15px;
-    color: #ba0c2f; /* Accent color */
-    border-bottom: 2px solid #ba0c2f;
-    display: inline-block;
-    padding-bottom: 4px;
+    color: #333; /* Neutral dark grey */
+    font-weight: bold;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 5px;
   }
 
   /* Education Item Styling */
   .education-item {
-    margin-bottom: 30px;
+    margin-bottom: 25px;
   }
 
   /* Title and Label Styling */
   .experience-title {
-    font-size: 18px;
+    font-size: 16px;
     font-weight: bold;
-    color: #333;
+    color: #222; /* Neutral dark grey for emphasis */
     display: block;
     margin-bottom: 5px;
   }
 
   .experience-title span {
     font-size: 14px;
-    color: #666;
+    color: #555; /* Lighter grey for supporting text */
     margin-top: 2px;
   }
 
   .experience-title a {
-    color: #ba0c2f; /* Link accent */
+    color: #0066cc; /* Professional blue for links */
     text-decoration: none;
   }
 
@@ -111,20 +110,19 @@ Education
 
   /* Education Details Styling */
   .education-details ul {
-    list-style: none;
-    padding-left: 20px;
+    list-style: none; /* No default bullets */
+    padding-left: 15px; /* Indent content slightly */
     margin-top: 10px;
-    line-height: 1.8;
   }
 
   .education-details ul li {
-    margin-bottom: 5px;
-    font-size: 14px;
-    color: #444;
+    margin-bottom: 8px;
+    font-size: 14px; /* Compact but readable */
+    color: #444; /* Neutral grey for text */
   }
 
   .education-details ul li a {
-    color: #0056b3; /* Secondary link color */
+    color: #0066cc; /* Blue for clickable items */
     text-decoration: none;
   }
 
@@ -134,19 +132,19 @@ Education
 
   /* Technical Toolkit List */
   .toolkit-list {
-    list-style: none;
+    list-style: disc;
     padding-left: 20px;
     margin-top: 10px;
-    line-height: 1.8;
+    line-height: 1.6; /* Increase spacing between lines for readability */
   }
 
   .toolkit-list li {
     margin-bottom: 10px;
-    font-size: 14px;
-    color: #333;
+    font-size: 14px; /* Keep the same text size as other sections */
+    color: #333; /* Consistent dark grey */
   }
 
   .toolkit-list strong {
-    color: #ba0c2f;
+    font-weight: bold; /* Highlight key roles */
   }
 </style>
