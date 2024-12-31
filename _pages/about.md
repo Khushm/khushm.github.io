@@ -60,47 +60,52 @@ Education
 </div>
 
 <style>
-  /* General Section Styling */
-  .education-section, .toolkit-section {
-    padding: 20px;
-    margin: 20px 0;
-    border: 1px solid #ddd; /* Light grey border */
-    background-color: #fff; /* Clean white background */
-    border-radius: 8px; /* Slightly rounded corners */
+  /* General Styling */
+  body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #333; /* Neutral grey for text */
   }
 
-  /* Section Headers */
-  .education-section h2, .toolkit-section h2 {
-    font-size: 20px;
+  /* Section Styling */
+  .education-section, .toolkit-section {
+    margin: 20px 0;
+    padding: 20px;
+    border-left: 4px solid #0066cc; /* Professional blue accent */
+    background-color: #f9f9f9; /* Subtle off-white background */
+    border-radius: 6px; /* Rounded edges */
+  }
+
+  /* Headers */
+  h2 {
+    font-size: 18px;
     margin-bottom: 15px;
-    color: #333; /* Neutral dark grey */
+    color: #222; /* Darker grey for headers */
     font-weight: bold;
-    border-bottom: 1px solid #ddd;
-    padding-bottom: 5px;
   }
 
   /* Education Item Styling */
   .education-item {
-    margin-bottom: 25px;
+    margin-bottom: 20px;
   }
 
-  /* Title and Label Styling */
+  /* Title Styling */
   .experience-title {
-    font-size: 16px;
+    font-size: 15px;
     font-weight: bold;
-    color: #222; /* Neutral dark grey for emphasis */
+    color: #222;
     display: block;
     margin-bottom: 5px;
   }
 
   .experience-title span {
     font-size: 14px;
-    color: #555; /* Lighter grey for supporting text */
-    margin-top: 2px;
+    color: #555; /* Lighter grey for secondary text */
+    display: block;
   }
 
   .experience-title a {
-    color: #0066cc; /* Professional blue for links */
+    color: #0066cc; /* Blue links */
     text-decoration: none;
   }
 
@@ -108,21 +113,20 @@ Education
     text-decoration: underline;
   }
 
-  /* Education Details Styling */
+  /* Details List */
   .education-details ul {
-    list-style: none; /* No default bullets */
-    padding-left: 15px; /* Indent content slightly */
+    list-style-type: none; /* Remove bullets */
+    padding-left: 15px; /* Align text nicely */
     margin-top: 10px;
   }
 
   .education-details ul li {
-    margin-bottom: 8px;
-    font-size: 14px; /* Compact but readable */
-    color: #444; /* Neutral grey for text */
+    font-size: 14px;
+    margin-bottom: 8px; /* Space between items */
   }
 
   .education-details ul li a {
-    color: #0066cc; /* Blue for clickable items */
+    color: #0066cc; /* Keep links consistent */
     text-decoration: none;
   }
 
@@ -130,21 +134,20 @@ Education
     text-decoration: underline;
   }
 
-  /* Technical Toolkit List */
+  /* Toolkit Styling */
   .toolkit-list {
-    list-style: disc;
-    padding-left: 20px;
+    list-style: disc; /* Add simple bullets */
+    padding-left: 20px; /* Align bullets nicely */
     margin-top: 10px;
-    line-height: 1.6; /* Increase spacing between lines for readability */
   }
 
   .toolkit-list li {
-    margin-bottom: 10px;
-    font-size: 14px; /* Keep the same text size as other sections */
-    color: #333; /* Consistent dark grey */
+    font-size: 14px;
+    margin-bottom: 8px; /* Space between items */
   }
 
-  .toolkit-list strong {
-    font-weight: bold; /* Highlight key roles */
+  /* Box Shadows for Better Presentation */
+  .education-section, .toolkit-section {
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow */
   }
 </style>
