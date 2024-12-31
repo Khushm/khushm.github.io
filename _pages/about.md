@@ -26,8 +26,8 @@ Education
     <div class="education-details">
       <ul>
         <li><strong>GPA:</strong> 3.67/4</li>
-        <li><a href="/files/OSR_ADVISING.pdf>Advising report</a></li>
         <li><strong>Relevant Courses:</strong> Advanced Operating Systems, Advanced Artificial Intelligence, Data Mining</li>
+        <li><a href="/files/OSR_ADVISING.pdf">Advising report</a></li>
       </ul>
     </div>
   </div>
