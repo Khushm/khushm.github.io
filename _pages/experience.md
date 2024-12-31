@@ -13,7 +13,7 @@ author_profile: true
       <h3>Student Research Assistant</h3>
       <p><a href="https://red.osu.edu/team/" target="_blank">Rehabilitation Engineering Design Laboratory, OSU</a></p>
       <span>Sep 2024 – Present</span>
-      <p class="details">Spearheaded automation of critical surveillance processes, cutting manual efforts by 80%, and enabling real-time truck detection using advanced models. Improved security operations and data processing with innovative pipelines, boosting overall system reliability and efficiency.</p>
+      <p class="details">Spearheading the development of a real-time diagnostic system for wheelchair breakdown detection, I’ve defined project milestones and am currently executing diagnostic algorithms using cloud-based tools and APIs to enhance system accuracy by 25%. By integrating sensor data with cloud technologies, the system aims to enable seamless analysis and faster detection of breakdowns, with a projected 20% improvement in response time. Additionally, I’m developing an Android application that integrates Google APIs (Distance Matrix, Cloud Storage) to automate sensor data collection, streamline the process, and provide real-time insights into wheelchair performance. This integration is expected to significantly improve operational efficiency, reducing delays in breakdown detection and enhancing the overall user experience. Through this role, I’m strengthening my skills in real-time data processing, cloud integration, and mobile app development, while also gaining valuable experience in problem-solving and project management.</p>
     </div>
   </div>
 
@@ -32,7 +32,7 @@ author_profile: true
   <div class="timeline-item">
     <div class="timeline-marker"></div>
     <div class="timeline-content">
-      <h3>Student Teaching Assistant</h3>
+      <h3>Research Assistant</h3>
       <p><a href="https://sites.google.com/view/nsuhci" target="_blank">North South University</a></p>
       <span>Jan 2023 – Jul 2024</span>
       <p class="details">Engineered innovative data collection systems to support cutting-edge research in mental health. For the suicidal ideation project, I developed a robust pipeline to gather and preprocess data from over 10,000 Facebook posts, utilizing text, emoji usage, and user interaction data to identify patterns linked to depression and suicidal thoughts. This effort directly contributed to the creation of a predictive model aimed at suicide prevention in South Asia, addressing regional challenges in behavioral patterns, socioeconomic factors, and language nuances. In parallel, I spearheaded the data analysis for the infodemic news analysis project, where I collected and processed a 4-year dataset of news articles from India, Bangladesh, and the UK. Using NLP techniques, I identified trends in misinformation during public health crises, providing actionable insights to enhance global public health response strategies. Additionally, I collaborated on building a machine learning model for stress level assessments based on psychological metrics (PSS, BFI-2), improving the accuracy of mental health diagnostics. This work reinforced my technical skills in Python, NLP, and data analytics, while also deepening my understanding of how data-driven approaches can address critical social challenges.</p>
@@ -65,10 +65,10 @@ author_profile: true
   <div class="timeline-item">
     <div class="timeline-marker"></div>
     <div class="timeline-content">
-      <h3>Student Teaching Assistant</h3>
-      <p><a href="https://cse.osu.edu/" target="_blank">Department of Computer Science, OSU</a></p>
-      <span>Sep 2023 – May 2024</span>
-      <p class="details">Led lab sessions, facilitated workshops, and mentored students in rehabilitation engineering concepts, ensuring comprehensive understanding and practical application of theories.</p>
+      <h3>Software Engineer Intern</h3>
+      <p><a href="https://www.persistent.com/" target="_blank">Persistent</a></p>
+      <span>May 2022 - Jun 2022</span>
+      <p class="details">Optimized image processing pipelines by leveraging Python and MLflow, increasing efficiency by 25%. I implemented a robust solution by automating data preprocessing, feature extraction, and model training. By conducting A/B testing, I evaluated various model architectures, selecting the most effective approach based on performance metrics like precision and processing time. This optimization led to faster data analysis and more consistent model predictions, enhancing the speed of client deliverables. Through this process, I gained hands-on experience in model selection, fine-tuning, and real-time deployment, learning how to balance computational efficiency with prediction accuracy for scalable solutions.</p>
     </div>
   </div>
 
@@ -88,10 +88,10 @@ author_profile: true
   <div class="timeline-item">
     <div class="timeline-marker"></div>
     <div class="timeline-content">
-      <h3>Student Teaching Assistant</h3>
-      <p><a href="https://cse.osu.edu/" target="_blank">Department of Computer Science, OSU</a></p>
-      <span>Sep 2023 – May 2024</span>
-      <p class="details">Led lab sessions, facilitated workshops, and mentored students in rehabilitation engineering concepts, ensuring comprehensive understanding and practical application of theories.</p>
+      <h3>Summer Intern</h3>
+      <p><a href="https://www.instagram.com/vitpunerobotics/" target="_blank">The Robotics Forum (TRF) - The official Robotics club of VIT Pune</a></p>
+      <span>Jul 2020 - Sep 2020</span>
+      <p class="details">Designed and controlled a robot for object picking, dropping, and lane-following, applying my knowledge of robotics, sensor integration, and real-time system control to create a functional prototype. My responsibilities included programming the robot to navigate autonomously using sensors for object detection and path tracking. I successfully integrated sensors with the control system, allowing the robot to perform tasks with accuracy and efficiency. This experience provided me with valuable hands-on knowledge in embedded systems, sensor calibration, and real-time decision-making algorithms. The project enhanced my problem-solving skills and ability to work under constraints, fostering a deep understanding of robotics systems and their real-world applications.</p>
     </div>
   </div>
 
