@@ -23,20 +23,20 @@ author:
   # Biographic information
   avatar           : "khush.jpg"
   name             : "Khushboo Suchit Mundada"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her"  
   bio              : "MS CSE @OSU"
   location         : "Columbus, OH, USA"
-  employer         : #"Red Brick University"
-  uri              : # URL
+  employer         : 
+  uri              : 
   email            : "mundada.10@osu.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0007-7944-3937"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   researchgate     : # URL
   scopus           : # URL
 
@@ -46,7 +46,7 @@ author:
   dribbble         : # Username
   github           : "khushm"
   kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  stackoverflow    : "17427884/khushboo-mundada"  
 
   # Social media
   bluesky          : "bsky.app" # Replace this with you Bluesky username
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "khushboo-mundada-768104198"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
