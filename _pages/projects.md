@@ -151,6 +151,12 @@ author_profile: true
     <a href="https://github.com/Khushm/SWD" target="_blank"><i class="fab fa-github"></i></a>
   </div>
 
+  <div class="project-card">
+    <h3>Taste As Home - E-Commerce Platform for Nutritious Food Delivery</h3>
+    <p>Developed an easy-to-use platform that connects food providers with quarantined individuals and customers seeking nutritious meals. The website allows providers to offer services like breakfast, lunch, and dinner at affordable prices and ensures quick delivery. The system empowers women and individuals who lost jobs during the pandemic to become financially independent while promoting health and convenience.</p>
+    <p><small>PHP, HTML, CSS, JavaScript, MySQL, AJAX, Bootstrap</small></p>
+    <a href="https://github.com/Khushm/TasteAsHome" target="_blank"><i class="fab fa-github"></i></a>
+  </div>
   
 
   <!-- Add more project cards here -->
