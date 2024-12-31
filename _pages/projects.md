@@ -79,7 +79,7 @@ author_profile: true
     <h3>Vitarana Drone</h3>
     <p>Designed drone navigation algorithms using Python and ROS Melodic with the Bug2 algorithm for real-time obstacle avoidance. Presented technical progress and collaborated with cross-functional teams during the Eyantra Robotic Competition (eYRC) hosted by IIT Bombay.</p>
     <p><small>Python, ROS Melodic, Bug2 Algorithm, Robotics</small></p>
-    <a href="https://github.com/Khushm/eda" target="_blank"><i class="fab fa-github"></i></a>
+    
   </div>
 
 <div class="project-card">
@@ -93,7 +93,7 @@ author_profile: true
     <h3>Autonomous Car for Indian Terrain</h3>
     <p>Led a project addressing Indian-specific road challenges, including pothole detection and obscured road signs, using Computer Vision and Neural Networks. Developed real-time solutions leveraging OpenCV and Deep Reinforcement Learning for autonomous navigation.</p>
     <p><small>OpenCV, Deep Reinforcement Learning, Neural Networks, Python</small></p>
-    <a href="https://github.com/Khushm/eda" target="_blank"><i class="fab fa-github"></i></a>
+    
   </div>
   
   
