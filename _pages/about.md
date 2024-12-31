@@ -42,7 +42,7 @@ Education
       <ul>
         <li><strong>CGPA:</strong> 9.24/10</li>
         <li><strong>Rank:</strong> Top 17% of the class</li>
-        <li><a href="#">Transcript</a></li>
+        <li><a href="/files/KHUSHBOO_MUNDADA_ACADEMIC_TRANSCRIPT.PDF">Transcript</a></li>
         <li><a href="#">Degree Certificate</a></li>
       </ul>
     </div>
